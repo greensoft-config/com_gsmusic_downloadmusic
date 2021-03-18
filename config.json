@@ -4,8 +4,8 @@
     "require_update": true,
     "disable_online": false,
     "black_local":[
-        "IND",
-        "IND"
+        "IN",
+        "VN"
     ],
     "link_direct": "com.gsmusic.downloadmusic",
     "hideRate": false,
