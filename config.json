@@ -4,7 +4,7 @@
     "require_update": true,
     "disable_online": false,
     "black_local":[
-        "IN"
+        "empty"
     ],
     "link_direct": "com.gsmusic.downloadmusic",
     "hideRate": false,
