@@ -1,10 +1,10 @@
 {
-    "version_code": 2,
+    "version_code": 1,
     "version_name": "1.0.2",
     "require_update": true,
     "disable_online": false,
     "black_local":[],
-    "link_direct": "com.gsmedia.freemusicdownloader",
+    "link_direct": "",
     "hideRate": false,
     "data_type": 0,
     "listpub": [
